@@ -1,1 +1,1 @@
-![gif](assets/defies_logic.gif)
+![gif](./assets/defies_logic.gif)
